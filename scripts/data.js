@@ -1,6 +1,6 @@
 "use strict";
 
-let cities = [
+const citiesArray = [
     {   name: "Roswell, GA",
         latitude: 34.0079026,
         longitude: -84.3183853
